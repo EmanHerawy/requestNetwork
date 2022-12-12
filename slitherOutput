@@ -1,0 +1,402 @@
+'npx hardhat compile --force' running
+Compiled 12 Solidity files successfully
+
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 1% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation vue-loader-plugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/vue-loader/lib/index.js
+<s> [webpack.Progress] 10% building 0/1 entries 5/6 dependencies 0/5 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/vue-loader/lib/loaders/pitcher.js
+<s> [webpack.Progress] 10% building 0/1 entries 14/15 dependencies 1/12 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/vue-loader/lib/loaders/templateLoader.js
+<s> [webpack.Progress] 10% building 0/1 entries 19/26 dependencies 2/17 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/vue-style-loader/index.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/1 entries 26/26 dependencies 9/23 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/vue-loader/lib/loaders/stylePostLoader.js
+<s> [webpack.Progress] 10% building 0/1 entries 38/41 dependencies 9/31 modules
+<s> [webpack.Progress] 65% building 1/1 entries 66/66 dependencies 53/53 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids DeterministicModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+
+INFO:Detectors:[93m
+Contract locking ether found:
+	Contract ERC20FeeProxy (contracts/ERC20FeeProxy.sol#8-107) has payable functions:
+	 - ERC20FeeProxy.receive() (contracts/ERC20FeeProxy.sol#20-22)
+	But does not have a function to withdraw the ether
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#contracts-that-lock-ether[0m
+INFO:Detectors:[93m
+Reentrancy in ERC20EscrowToPay._withdraw(bytes,address) (contracts/ERC20EscrowToPay.sol#355-392):
+	External calls:
+	- approvePaymentProxyToSpend(address(requestedToken)) (contracts/ERC20EscrowToPay.sol#372)
+		- (success,data) = address(_token).call(abi.encodeWithSignature(approve(address,uint256),_spender,_amount)) (contracts/lib/SafeERC20.sol#41-43)
+		- erc20.safeApprove(address(paymentProxy),max) (contracts/ERC20EscrowToPay.sol#405)
+	State variables written after the call(s):
+	- delete requestMapping[_paymentRef] (contracts/ERC20EscrowToPay.sol#380)
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#reentrancy-vulnerabilities-1[0m
+INFO:Detectors:[93m
+ERC20EscrowToPay.approvePaymentProxyToSpend(address) (contracts/ERC20EscrowToPay.sol#402-406) ignores return value by erc20.safeApprove(address(paymentProxy),max) (contracts/ERC20EscrowToPay.sol#405)
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#unused-return[0m
+INFO:Detectors:[92m
+ERC20EscrowToPay.payEscrow(address,address,uint256,bytes,uint256,address)._tokenAddress (contracts/ERC20EscrowToPay.sol#192) lacks a zero-check on :
+		- (status) = address(paymentProxy).delegatecall(abi.encodeWithSignature(transferFromWithReferenceAndFee(address,address,uint256,bytes,uint256,address),_tokenAddress,address(this),_amount,_paymentRef,_feeAmount,_feeAddress)) (contracts/ERC20EscrowToPay.sol#214-224)
+ERC20EscrowToPay.payEscrow(address,address,uint256,bytes,uint256,address)._feeAddress (contracts/ERC20EscrowToPay.sol#198) lacks a zero-check on :
+		- (status) = address(paymentProxy).delegatecall(abi.encodeWithSignature(transferFromWithReferenceAndFee(address,address,uint256,bytes,uint256,address),_tokenAddress,address(this),_amount,_paymentRef,_feeAmount,_feeAddress)) (contracts/ERC20EscrowToPay.sol#214-224)
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#missing-zero-address-validation[0m
+INFO:Detectors:[92m
+Reentrancy in ERC20FeeProxy.transferFromWithReferenceAndFee(address,address,uint256,bytes,uint256,address) (contracts/ERC20FeeProxy.sol#34-57):
+	External calls:
+	- require(bool,string)(safeTransferFrom(_tokenAddress,_to,_amount),payment transferFrom() failed) (contracts/ERC20FeeProxy.sol#42)
+		- (success) = _tokenAddress.call(abi.encodeWithSignature(transferFrom(address,address,uint256),msg.sender,_to,_amount)) (contracts/ERC20FeeProxy.sol#81-83)
+	- require(bool,string)(safeTransferFrom(_tokenAddress,_feeAddress,_feeAmount),fee transferFrom() failed) (contracts/ERC20FeeProxy.sol#44-47)
+		- (success) = _tokenAddress.call(abi.encodeWithSignature(transferFrom(address,address,uint256),msg.sender,_to,_amount)) (contracts/ERC20FeeProxy.sol#81-83)
+	Event emitted after the call(s):
+	- TransferWithReferenceAndFee(_tokenAddress,_to,_amount,_paymentReference,_feeAmount,_feeAddress) (contracts/ERC20FeeProxy.sol#49-56)
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#reentrancy-vulnerabilities-3[0m
+INFO:Detectors:[92m
+ERC20EscrowToPay.completeEmergencyClaim(bytes) (contracts/ERC20EscrowToPay.sol#291-307) uses timestamp for comparisons
+	Dangerous comparisons:
+	- require(bool,string)(requestMapping[_paymentRef].emergencyState && requestMapping[_paymentRef].emergencyClaimDate <= block.timestamp,Not yet!) (contracts/ERC20EscrowToPay.sol#297-301)
+ERC20EscrowToPay.refundFrozenFunds(bytes) (contracts/ERC20EscrowToPay.sol#334-345) uses timestamp for comparisons
+	Dangerous comparisons:
+	- require(bool,string)(requestMapping[_paymentRef].unlockDate <= block.timestamp,Not Yet!) (contracts/ERC20EscrowToPay.sol#340)
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#block-timestamp[0m
+INFO:Detectors:[92m
+ERC20FeeProxy.safeTransferFrom(address,address,uint256) (contracts/ERC20FeeProxy.sol#67-106) uses assembly
+	- INLINE ASM (contracts/ERC20FeeProxy.sol#74-78)
+	- INLINE ASM (contracts/ERC20FeeProxy.sol#85-100)
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#assembly-usage[0m
+INFO:Detectors:[92m
+Different versions of Solidity is used:
+	- Version used: ['^0.8.0', '^0.8.4']
+	- ^0.8.0 (node_modules/@openzeppelin/contracts/access/Ownable.sol#4)
+	- ^0.8.0 (node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol#4)
+	- ^0.8.0 (node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol#4)
+	- ^0.8.0 (node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol#4)
+	- ^0.8.0 (node_modules/@openzeppelin/contracts/utils/Context.sol#4)
+	- ^0.8.4 (contracts/ERC20EscrowToPay.sol#2)
+	- ^0.8.0 (contracts/interfaces/ERC20FeeProxy.sol#2)
+	- ^0.8.0 (contracts/lib/SafeERC20.sol#2)
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#different-pragma-directives-are-used[0m
+INFO:Detectors:[92m
+SafeERC20.safeTransfer(IERC20,address,uint256) (contracts/lib/SafeERC20.sol#53-64) is never used and should be removed
+SafeERC20.safeTransferFrom(IERC20,address,address,uint256) (contracts/lib/SafeERC20.sol#16-28) is never used and should be removed
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#dead-code[0m
+INFO:Detectors:[92m
+Pragma version^0.8.0 (contracts/interfaces/EthereumFeeProxy.sol#2) necessitates a version too recent to be trusted. Consider deploying with 0.6.12/0.7.6
+solc-0.8.7 is not recommended for deployment
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#incorrect-versions-of-solidity[0m
+INFO:Detectors:[92m
+Pragma version^0.8.0 (contracts/interfaces/IERC20ConversionProxy.sol#2) necessitates a version too recent to be trusted. Consider deploying with 0.6.12/0.7.6
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#incorrect-versions-of-solidity[0m
+INFO:Detectors:[92m
+Pragma version^0.8.0 (contracts/interfaces/IEthConversionProxy.sol#2) necessitates a version too recent to be trusted. Consider deploying with 0.6.12/0.7.6
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#incorrect-versions-of-solidity[0m
+INFO:Detectors:[92m
+Pragma version^0.8.0 (contracts/ERC20FeeProxy.sol#2) necessitates a version too recent to be trusted. Consider deploying with 0.6.12/0.7.6
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#incorrect-versions-of-solidity[0m
+INFO:Detectors:[92m
+Pragma version^0.8.0 (node_modules/@openzeppelin/contracts/access/Ownable.sol#4) necessitates a version too recent to be trusted. Consider deploying with 0.6.12/0.7.6
+Pragma version^0.8.0 (node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol#4) necessitates a version too recent to be trusted. Consider deploying with 0.6.12/0.7.6
+Pragma version^0.8.0 (node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol#4) necessitates a version too recent to be trusted. Consider deploying with 0.6.12/0.7.6
+Pragma version^0.8.0 (node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol#4) necessitates a version too recent to be trusted. Consider deploying with 0.6.12/0.7.6
+Pragma version^0.8.0 (node_modules/@openzeppelin/contracts/utils/Context.sol#4) necessitates a version too recent to be trusted. Consider deploying with 0.6.12/0.7.6
+Pragma version^0.8.4 (contracts/ERC20EscrowToPay.sol#2) necessitates a version too recent to be trusted. Consider deploying with 0.6.12/0.7.6
+Pragma version^0.8.0 (contracts/interfaces/ERC20FeeProxy.sol#2) necessitates a version too recent to be trusted. Consider deploying with 0.6.12/0.7.6
+Pragma version^0.8.0 (contracts/lib/SafeERC20.sol#2) necessitates a version too recent to be trusted. Consider deploying with 0.6.12/0.7.6
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#incorrect-versions-of-solidity[0m
+INFO:Detectors:[92m
+Low level call in ERC20FeeProxy.safeTransferFrom(address,address,uint256) (contracts/ERC20FeeProxy.sol#67-106):
+	- (success) = _tokenAddress.call(abi.encodeWithSignature(transferFrom(address,address,uint256),msg.sender,_to,_amount)) (contracts/ERC20FeeProxy.sol#81-83)
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#low-level-calls[0m
+INFO:Detectors:[92m
+Low level call in ERC20EscrowToPay.payEscrow(address,address,uint256,bytes,uint256,address) (contracts/ERC20EscrowToPay.sol#190-226):
+	- (status) = address(paymentProxy).delegatecall(abi.encodeWithSignature(transferFromWithReferenceAndFee(address,address,uint256,bytes,uint256,address),_tokenAddress,address(this),_amount,_paymentRef,_feeAmount,_feeAddress)) (contracts/ERC20EscrowToPay.sol#214-224)
+Low level call in SafeERC20.safeTransferFrom(IERC20,address,address,uint256) (contracts/lib/SafeERC20.sol#16-28):
+	- (success,data) = address(_token).call(abi.encodeWithSignature(transferFrom(address,address,uint256),_from,_to,_amount)) (contracts/lib/SafeERC20.sol#23-25)
+Low level call in SafeERC20.safeApprove(IERC20,address,uint256) (contracts/lib/SafeERC20.sol#35-46):
+	- (success,data) = address(_token).call(abi.encodeWithSignature(approve(address,uint256),_spender,_amount)) (contracts/lib/SafeERC20.sol#41-43)
+Low level call in SafeERC20.safeTransfer(IERC20,address,uint256) (contracts/lib/SafeERC20.sol#53-64):
+	- (success,data) = address(_token).call(abi.encodeWithSignature(transfer(address,uint256),_to,_amount)) (contracts/lib/SafeERC20.sol#59-61)
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#low-level-calls[0m
+INFO:Detectors:[92m
+Parameter ERC20FeeProxy.transferFromWithReferenceAndFee(address,address,uint256,bytes,uint256,address)._tokenAddress (contracts/ERC20FeeProxy.sol#35) is not in mixedCase
+Parameter ERC20FeeProxy.transferFromWithReferenceAndFee(address,address,uint256,bytes,uint256,address)._to (contracts/ERC20FeeProxy.sol#36) is not in mixedCase
+Parameter ERC20FeeProxy.transferFromWithReferenceAndFee(address,address,uint256,bytes,uint256,address)._amount (contracts/ERC20FeeProxy.sol#37) is not in mixedCase
+Parameter ERC20FeeProxy.transferFromWithReferenceAndFee(address,address,uint256,bytes,uint256,address)._paymentReference (contracts/ERC20FeeProxy.sol#38) is not in mixedCase
+Parameter ERC20FeeProxy.transferFromWithReferenceAndFee(address,address,uint256,bytes,uint256,address)._feeAmount (contracts/ERC20FeeProxy.sol#39) is not in mixedCase
+Parameter ERC20FeeProxy.transferFromWithReferenceAndFee(address,address,uint256,bytes,uint256,address)._feeAddress (contracts/ERC20FeeProxy.sol#40) is not in mixedCase
+Parameter ERC20FeeProxy.safeTransferFrom(address,address,uint256)._tokenAddress (contracts/ERC20FeeProxy.sol#68) is not in mixedCase
+Parameter ERC20FeeProxy.safeTransferFrom(address,address,uint256)._to (contracts/ERC20FeeProxy.sol#69) is not in mixedCase
+Parameter ERC20FeeProxy.safeTransferFrom(address,address,uint256)._amount (contracts/ERC20FeeProxy.sol#70) is not in mixedCase
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#conformance-to-solidity-naming-conventions[0m
+INFO:Detectors:[92m
+Parameter ERC20EscrowToPay.setEmergencyClaimPeriod(uint256)._emergencyClaimPeriod (contracts/ERC20EscrowToPay.sol#160) is not in mixedCase
+Parameter ERC20EscrowToPay.setFrozenPeriod(uint256)._frozenPeriod (contracts/ERC20EscrowToPay.sol#172) is not in mixedCase
+Parameter ERC20EscrowToPay.payEscrow(address,address,uint256,bytes,uint256,address)._tokenAddress (contracts/ERC20EscrowToPay.sol#192) is not in mixedCase
+Parameter ERC20EscrowToPay.payEscrow(address,address,uint256,bytes,uint256,address)._to (contracts/ERC20EscrowToPay.sol#193) is not in mixedCase
+Parameter ERC20EscrowToPay.payEscrow(address,address,uint256,bytes,uint256,address)._amount (contracts/ERC20EscrowToPay.sol#194) is not in mixedCase
+Parameter ERC20EscrowToPay.payEscrow(address,address,uint256,bytes,uint256,address)._paymentRef (contracts/ERC20EscrowToPay.sol#195) is not in mixedCase
+Parameter ERC20EscrowToPay.payEscrow(address,address,uint256,bytes,uint256,address)._feeAmount (contracts/ERC20EscrowToPay.sol#196) is not in mixedCase
+Parameter ERC20EscrowToPay.payEscrow(address,address,uint256,bytes,uint256,address)._feeAddress (contracts/ERC20EscrowToPay.sol#198) is not in mixedCase
+Parameter ERC20EscrowToPay.freezeRequest(bytes)._paymentRef (contracts/ERC20EscrowToPay.sol#235) is not in mixedCase
+Parameter ERC20EscrowToPay.payRequestFromEscrow(bytes)._paymentRef (contracts/ERC20EscrowToPay.sol#258) is not in mixedCase
+Parameter ERC20EscrowToPay.initiateEmergencyClaim(bytes)._paymentRef (contracts/ERC20EscrowToPay.sol#273) is not in mixedCase
+Parameter ERC20EscrowToPay.completeEmergencyClaim(bytes)._paymentRef (contracts/ERC20EscrowToPay.sol#291) is not in mixedCase
+Parameter ERC20EscrowToPay.revertEmergencyClaim(bytes)._paymentRef (contracts/ERC20EscrowToPay.sol#315) is not in mixedCase
+Parameter ERC20EscrowToPay.refundFrozenFunds(bytes)._paymentRef (contracts/ERC20EscrowToPay.sol#334) is not in mixedCase
+Parameter ERC20EscrowToPay.approvePaymentProxyToSpend(address)._erc20Address (contracts/ERC20EscrowToPay.sol#402) is not in mixedCase
+Modifier ERC20EscrowToPay.OnlyPayer(bytes) (contracts/ERC20EscrowToPay.sol#51-54) is not in mixedCase
+Modifier ERC20EscrowToPay.OnlyPayee(bytes) (contracts/ERC20EscrowToPay.sol#61-64) is not in mixedCase
+Modifier ERC20EscrowToPay.IsNotInEscrow(bytes) (contracts/ERC20EscrowToPay.sol#71-74) is not in mixedCase
+Modifier ERC20EscrowToPay.IsInEscrow(bytes) (contracts/ERC20EscrowToPay.sol#81-84) is not in mixedCase
+Modifier ERC20EscrowToPay.IsNotInEmergencyState(bytes) (contracts/ERC20EscrowToPay.sol#91-94) is not in mixedCase
+Modifier ERC20EscrowToPay.IsNotFrozen(bytes) (contracts/ERC20EscrowToPay.sol#101-104) is not in mixedCase
+Parameter SafeERC20.safeTransferFrom(IERC20,address,address,uint256)._token (contracts/lib/SafeERC20.sol#17) is not in mixedCase
+Parameter SafeERC20.safeTransferFrom(IERC20,address,address,uint256)._from (contracts/lib/SafeERC20.sol#18) is not in mixedCase
+Parameter SafeERC20.safeTransferFrom(IERC20,address,address,uint256)._to (contracts/lib/SafeERC20.sol#19) is not in mixedCase
+Parameter SafeERC20.safeTransferFrom(IERC20,address,address,uint256)._amount (contracts/lib/SafeERC20.sol#20) is not in mixedCase
+Parameter SafeERC20.safeApprove(IERC20,address,uint256)._token (contracts/lib/SafeERC20.sol#36) is not in mixedCase
+Parameter SafeERC20.safeApprove(IERC20,address,uint256)._spender (contracts/lib/SafeERC20.sol#37) is not in mixedCase
+Parameter SafeERC20.safeApprove(IERC20,address,uint256)._amount (contracts/lib/SafeERC20.sol#38) is not in mixedCase
+Parameter SafeERC20.safeTransfer(IERC20,address,uint256)._token (contracts/lib/SafeERC20.sol#54) is not in mixedCase
+Parameter SafeERC20.safeTransfer(IERC20,address,uint256)._to (contracts/lib/SafeERC20.sol#55) is not in mixedCase
+Parameter SafeERC20.safeTransfer(IERC20,address,uint256)._amount (contracts/lib/SafeERC20.sol#56) is not in mixedCase
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#conformance-to-solidity-naming-conventions[0m
+INFO:Detectors:[92m
+renounceOwnership() should be declared external:
+	- Ownable.renounceOwnership() (node_modules/@openzeppelin/contracts/access/Ownable.sol#54-56)
+name() should be declared external:
+	- ERC20.name() (node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol#62-64)
+symbol() should be declared external:
+	- ERC20.symbol() (node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol#70-72)
+decimals() should be declared external:
+	- ERC20.decimals() (node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol#87-89)
+totalSupply() should be declared external:
+	- ERC20.totalSupply() (node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol#94-96)
+balanceOf(address) should be declared external:
+	- ERC20.balanceOf(address) (node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol#101-103)
+transfer(address,uint256) should be declared external:
+	- ERC20.transfer(address,uint256) (node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol#113-117)
+approve(address,uint256) should be declared external:
+	- ERC20.approve(address,uint256) (node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol#136-140)
+transferFrom(address,address,uint256) should be declared external:
+	- ERC20.transferFrom(address,address,uint256) (node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol#158-167)
+increaseAllowance(address,uint256) should be declared external:
+	- ERC20.increaseAllowance(address,uint256) (node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol#181-185)
+decreaseAllowance(address,uint256) should be declared external:
+	- ERC20.decreaseAllowance(address,uint256) (node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol#201-210)
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#public-function-that-could-be-declared-external[0m
+INFO:Slither:. analyzed (12 contracts with 75 detectors), 81 result(s) found
+INFO:Slither:[94mUse https://crytic.io/ to get access to additional detectors and Github integration[0m

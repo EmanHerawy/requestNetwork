@@ -1,8 +1,9 @@
 import { ethers } from 'hardhat';
-import { Contract, Signer } from 'ethers';
+import { Contract, Signer, constants } from 'ethers';
 import { expect, use } from 'chai';
 import { solidity } from 'ethereum-waffle';
 
+const ZERO_ADDRESS = constants.AddressZero;
 let latestBlockchainSnapshot: number;
 const moveTimeForward = async (timeInSeconds: number) => {
   latestBlockchainSnapshot = await ethers.provider.send('evm_snapshot', []);
@@ -64,6 +65,11 @@ describe('Contract: ERC20EscrowToPay', () => {
     await testERC20.connect(owner).transfer(payerAddress, 100000000);
   });
 
+  describe('hacked flow:', () => {
+    it('escrow could have zero value for _paymentProxyAddress', async () => {
+      await new ERC20EscrowToPay__factory(owner).deploy(ZERO_ADDRESS, adminAddress);
+    });
+  });
   describe('Normal flow:', () => {
     it('Should transfer amount to escrow and fees to buidler', async () => {
       await testERC20.connect(payer).approve(erc20EscrowToPayAddress, 1001);
